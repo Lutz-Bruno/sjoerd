@@ -1,0 +1,45 @@
+html {
+    height: 100%;
+
+}
+
+body {
+    background-color: indianred;
+    height: 100%;
+    margin:0;
+    padding:0;
+}
+
+#balk {
+    background-color: white;
+    width: 80;
+    height:15%;
+    text-align: center;
+    font-size: 70px;
+}
+
+#container {
+    background-color: yellowgreen;
+    widows:80%;
+    height:75%;
+    display: flex;
+
+}
+
+#sjoerd {
+    background-color: blue;
+    width: 20%;
+    height: 100%
+}
+
+#kaas {
+    background-color: lightcoral;
+    width: 60%;
+    height: 100%
+}
+
+#menu {
+    background-color: blue;
+    width: 20%;
+    height: 100%
+}
