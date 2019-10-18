@@ -19,7 +19,7 @@ body {
 }
 
 #container {
-    background-color: yellowgreen;
+    background-color: blue;
     widows:80%;
     height:75%;
     display: flex;
@@ -38,8 +38,6 @@ body {
     height: 100%
 }
 
-#menu {
-    background-color: blue;
-    width: 20%;
-    height: 100%
+.boodschap {
+    margin-left: 20px
 }
