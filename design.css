@@ -11,7 +11,7 @@ body {
 }
 
 #balk {
-    background-color: white;
+    background-color: aquamarine;
     width: 80;
     height:15%;
     text-align: center;
@@ -33,11 +33,28 @@ body {
 }
 
 #kaas {
-    background-color: lightcoral;
     width: 60%;
-    height: 100%
+    height: 100%;
+    position: relative;
+    z-index: 0;
+}
+
+.blijmetsjoerd {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;left:0;right:0;bottom:0;
+    object-fit: cover;
+    z-index: 0;
 }
 
 .boodschap {
-    margin-left: 20px
+    margin-left: 20px;
+    background-color: aquamarine;
+    border-style: solid;
+    border-radius: 20px;
+    margin: 30px;
+    text-align: center;
+     margin-right: 27%;
+     margin-left: 27%;
 }
